@@ -2,6 +2,7 @@
 
  
 
+// Azul RS, Verde Enable, Amarelo D4, Preto Ground, Branco VCC, Laranja D5, Vermelho D6 e Marrom D7 ( d4,5,6,7 ) = Data  
 LiquidCrystal lcd(7,6, 5, 4, 3, 2); //Configura os pinos do Arduino para se comunicar com o LCD
 
 const int TIME1 = 0;
